@@ -34,11 +34,6 @@ export default function Home() {
 
         </div>
 
-        <div className="flex justify-between items-end text-sm text-[#8d8e86]">
-          <p>Scroll if you want to know me.</p>
-          <p>↓</p>
-        </div>
-
       </section>
 
 
