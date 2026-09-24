@@ -16,7 +16,7 @@ export default function Home() {
         <div className="max-w-6xl">
 
           <p className="text-[#8d8e86] text-sm mb-6">
-            Software Development / Cybersecurity / Things I probably shouldn't be building
+            Software Development / Cybersecurity / 
           </p>
 
           <h1 className="text-[14vw] md:text-[11vw] leading-[0.8] tracking-[-0.07em] font-bold">
@@ -30,10 +30,6 @@ export default function Home() {
               I hate making websites.
             </p>
 
-            <p className="mt-4 text-[#8d8e86] text-lg leading-relaxed">
-              Which is probably a strange thing to say when you're looking
-              at a website about me.
-            </p>
           </div>
 
         </div>
@@ -222,7 +218,6 @@ export default function Home() {
               <span>SQL</span>
               <span>MySQL</span>
               <span>SQL Server</span>
-              <span>PostgreSQL</span>
               <span>Git</span>
               <span>Docker</span>
               <span>REST APIs</span>
@@ -585,7 +580,7 @@ export default function Home() {
             <p className="mt-10 text-lg text-[#8d8e86] max-w-2xl leading-relaxed">
               Right now I'm finishing my studies in Software Development
               while trying to go deeper into cybersecurity, backend
-              development, artificial intelligence and systems that can
+              development, and systems that can
               actually be useful outside a classroom.
             </p>
 
@@ -609,15 +604,14 @@ export default function Home() {
           </p>
 
           <p className="text-3xl md:text-5xl leading-tight">
-            I'm still trying to figure out whether I actually like
-            software development or whether I've simply spent too much
-            time doing it to walk away now.
+            Life is too short for not doing what you like, 
+            start enjoying life and find love on doing what can help 
+            the most.
           </p>
 
           <p className="mt-10 text-[#8d8e86] text-lg leading-relaxed max-w-2xl">
-            Maybe that's not the kind of thing you're supposed to put
-            on a portfolio. I think it's more honest than pretending
-            I've already figured everything out.
+            I'm still young and I'm a bundle of nerves, but I like 
+            to think who and what I want to be
           </p>
 
         </div>
@@ -650,7 +644,7 @@ export default function Home() {
             <div className="mt-12 flex flex-wrap gap-8 text-lg">
 
               <a
-                href="https://github.com/AdrianRosa21"
+                href="https://github.com/diegoelias90"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border-b border-[#777870] hover:border-[#e8e7df] transition-colors"
@@ -659,10 +653,17 @@ export default function Home() {
               </a>
 
               <a
-                href="mailto:your-email@example.com"
+                href="mailto:eliaslopezdiegojosue@gmail.com"
                 className="border-b border-[#777870] hover:border-[#e8e7df] transition-colors"
               >
                 Email ↗
+              </a>
+
+              <a
+                href="mailto:your-email@example.com"
+                className="border-b border-[#777870] hover:border-[#e8e7df] transition-colors"
+              >
+                Instagram ↗
               </a>
 
             </div>
@@ -685,7 +686,7 @@ export default function Home() {
         </p>
 
         <p>
-          Built with Next.js. Probably overthought.
+          Brake free and find yourself in every piece of the universe ahead u.
         </p>
 
         <p>
